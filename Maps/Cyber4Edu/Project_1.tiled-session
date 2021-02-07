@@ -1,0 +1,65 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps/map2.json",
+    "expandedProjectPaths": [
+        "maps"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "maps/main.json": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 240.5,
+                "y": 251
+            }
+        },
+        "maps/main.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "maps/main.json#misc": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/map2.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 74.5,
+                "y": 47
+            }
+        },
+        "maps/map2.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "maps/map2.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "maps/map2.json#misc": {
+            "scaleInDock": 1
+        }
+    },
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "maps/main.json",
+        "maps/map2.json"
+    ],
+    "project": "Project_1.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "maps/map2.json",
+        "maps/main.json"
+    ],
+    "tileset.embedInMap": true
+}

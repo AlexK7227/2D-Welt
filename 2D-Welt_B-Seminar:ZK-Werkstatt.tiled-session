@@ -1,0 +1,313 @@
+{
+    "activeFile": "Maps/2D-Welt_B-Sem_Start.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1838.6666666666667,
+                "y": 2014.6666666666665
+            }
+        },
+        "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#02_chairs_grey Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#03_chairs_blue Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#03_draeger_gamma Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#03_eh-wandschrank_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#09_workstations Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#10_paperwork Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#12_telephone_upright Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#17_muelleimer1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#35_kuehlfaecher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#TVD_3": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Car_1": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Car_4": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Furniture_1": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Furniture_5": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Office": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#ccc Basics": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#genericItem_color_004": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json": {
+            "scale": 1.1476074218749999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -175.58269157128882,
+                "y": 8.278092158447862
+            }
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Furniture_3": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem1_furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem2_base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem4_pipo_base_3": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem6_food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#prem7_dk_space_station": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#01_mate Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#02_chairs_grey Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#03_chairs_blue Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#03_eh-wandschrank_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#09_workstations Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#10_paperwork Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#12_telephone_upright Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#15_Pizza Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#16_uhr_weiss Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#35_kuehlfaecher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#35_pflanze1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 414,
+                "y": 312
+            }
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#07_wear_your_mask_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#TVD": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#TVD_3": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#TVD_6": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#Tileset-Car_1": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#Tileset-Car_4": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Start.json#misc CCC": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "Maps/2D-Welt_B-Sem_Start.json",
+        "Maps/2D-Welt B-Seminar.json"
+    ],
+    "project": "2D-Welt_B-Seminar:ZK-Werkstatt.tiled-project",
+    "recentFiles": [
+        "Maps/2D-Welt B-Seminar.json",
+        "Maps/2D-Welt_B-Sem_Start.json",
+        "Maps/2D-Welt B-Seminar_Buchmann.json",
+        "Maps/2D-Welt_B-Sem_Info_1.json"
+    ]
+}
