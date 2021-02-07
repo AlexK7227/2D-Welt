@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":100,
  "infinite":true,
  "layers":[
@@ -32,12 +39,12 @@
                  "x":0,
                  "y":0
                 }],
-         "height":32,
+         "height":16,
          "id":9,
          "name":"exitToolshop",
          "opacity":1,
          "startx":0,
-         "starty":-16,
+         "starty":0,
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -316,11 +323,11 @@
          "id":6,
          "name":"floor",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":-32,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }, 
@@ -365,11 +372,11 @@
          "id":14,
          "name":"furnitureLow",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":-16,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }, 
@@ -435,11 +442,11 @@
          "id":5,
          "name":"walls",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":-32,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }, 
@@ -491,11 +498,11 @@
          "id":12,
          "name":"furniture",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":-32,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }, 
@@ -526,11 +533,11 @@
          "id":4,
          "name":"signs",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":0,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }, 
@@ -621,11 +628,11 @@
          "id":3,
          "name":"objects",
          "opacity":1,
-         "startx":-32,
+         "startx":-16,
          "starty":-32,
          "type":"tilelayer",
          "visible":true,
-         "width":48,
+         "width":32,
          "x":0,
          "y":0
         }],
