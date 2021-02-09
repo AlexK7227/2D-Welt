@@ -8,11 +8,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 1,
-            "selectedLayer": 22,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 827,
-                "y": 548.5
+                "x": 1273.333333333333,
+                "y": 1667.3333333333335
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -188,8 +188,8 @@
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 641,
-                "y": 538.5
+                "x": 652,
+                "y": 555.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
