@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"2D-Welt B-Seminar.json"
+                 "value":"2D-Welt B-Seminar.json#startOffice"
                 }],
          "type":"tilelayer",
          "visible":true,
