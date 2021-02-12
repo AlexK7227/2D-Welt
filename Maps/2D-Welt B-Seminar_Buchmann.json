@@ -117,7 +117,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.computerbase.de"
                 }],
          "type":"tilelayer",
          "visible":true,
