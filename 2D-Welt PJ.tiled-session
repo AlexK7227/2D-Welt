@@ -1,4 +1,8 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "Maps/2D-Welt_B-Sem_Info_1.json",
     "expandedProjectPaths": [
     ],
@@ -8,11 +12,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 1,
-            "selectedLayer": 1,
+            "scale": 0.25,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 1533,
-                "y": 1663.5
+                "x": 1764,
+                "y": 1526
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -113,11 +117,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
-            "scale": 1,
+            "scale": 0.33,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 1103,
-                "y": 1177.5
+                "x": 960.6060606060605,
+                "y": 856.0606060606062
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -205,12 +209,20 @@
         "Maps/2D-Welt B-Seminar_Buchmann.json#premTileset-Furniture_2": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt MyFloor.json": {
+            "scale": 0.3832986111111111,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 1453.175106440801,
+                "y": 1391.8652051816289
+            }
+        },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 412,
-                "y": 654.5
+                "x": 405,
+                "y": 804.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -290,11 +302,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Start.json": {
-            "scale": 1.5,
-            "selectedLayer": 6,
+            "scale": 0.25,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 430.6666666666667,
-                "y": 453.66666666666663
+                "x": 920,
+                "y": 1458
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -342,6 +354,9 @@
         }
     },
     "frame.defaultDuration": 200,
+    "map.height": 90,
+    "map.lastUsedFormat": "json",
+    "map.width": 90,
     "openFiles": [
         "Maps/2D-Welt B-Seminar_Buchmann.json",
         "Maps/2D-Welt B-Seminar.json",
