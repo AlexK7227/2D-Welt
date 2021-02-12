@@ -9,10 +9,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1311.5,
-                "y": 1328
+                "x": 1664,
+                "y": 1939.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -334,7 +334,7 @@
         "Maps/2D-Welt_B-Sem_Start.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Maps/2D-Welt B-Seminar_Buchmann.json",
         "Maps/2D-Welt B-Seminar.json",
