@@ -113,8 +113,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 833,
-                "y": 607.5
+                "x": 746,
+                "y": 1260.5
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -275,8 +275,8 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1695.6666666666665,
-                "y": 1711.9999999999998
+                "x": 465.3333333333333,
+                "y": 369
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
