@@ -276,10 +276,10 @@
         },
         "Maps/2D-Welt_B-Sem_Start.json": {
             "scale": 1.5,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 464.6666666666667,
-                "y": 369
+                "x": 506,
+                "y": 372.3333333333333
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
