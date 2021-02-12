@@ -9,10 +9,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1028,
-                "y": 1875.5
+                "x": 1182,
+                "y": 1718.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -103,6 +103,9 @@
         "Maps/2D-Welt B-Seminar.json#misc CCC": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar.json#prem3_doors": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json#premTileset-Furniture": {
             "scaleInDock": 1
         },
@@ -111,10 +114,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 1,
-            "selectedLayer": 18,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 753,
-                "y": 697.5
+                "x": 770,
+                "y": 618.5
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -189,10 +192,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 390,
-                "y": 610.5
+                "x": 514,
+                "y": 602.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -275,7 +278,7 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 465.3333333333333,
+                "x": 464.6666666666667,
                 "y": 369
             }
         },
@@ -313,7 +316,8 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Start.json#mapUtilities CCC": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Maps/2D-Welt_B-Sem_Start.json#misc CCC": {
             "scaleInDock": 1
