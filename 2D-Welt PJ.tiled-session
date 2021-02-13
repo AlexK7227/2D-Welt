@@ -117,11 +117,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
-            "scale": 1,
-            "selectedLayer": 26,
+            "scale": 1.3287,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1777.5,
-                "y": 1419.5
+                "x": 281.10182885527206,
+                "y": 425.60397380898627
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -211,7 +211,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 17,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 1424.5,
                 "y": 949.5
