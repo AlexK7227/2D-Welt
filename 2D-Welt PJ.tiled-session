@@ -214,7 +214,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 9,
+            "selectedLayer": 16,
             "viewCenter": {
                 "x": 1060.5,
                 "y": 983.5
