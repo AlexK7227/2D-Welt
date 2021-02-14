@@ -13,7 +13,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 15,
+            "selectedLayer": 16,
             "viewCenter": {
                 "x": 1081.5,
                 "y": 1682.5
@@ -281,10 +281,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 13,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 502.5,
-                "y": 346.5
+                "x": 590.5,
+                "y": 637.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -321,6 +321,9 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#32x32 Tileset CCC": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#35_kuehlfaecher Kopie": {
