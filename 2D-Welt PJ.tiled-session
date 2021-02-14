@@ -13,10 +13,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 25,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1312,
-                "y": 1328
+                "x": 974.5,
+                "y": 1607.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -118,10 +118,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 1.03,
-            "selectedLayer": 0,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 584.9514563106795,
-                "y": 687.864077669903
+                "x": 478.1553398058252,
+                "y": 511.1650485436893
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -281,10 +281,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1840,
-                "y": 1888
+                "x": 374.5,
+                "y": 644.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -368,8 +368,8 @@
             "scale": 1.5,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 1696,
-                "y": 1711.9999999999998
+                "x": 491,
+                "y": 381.66666666666663
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -428,11 +428,11 @@
         "Maps/2D-Welt MyFloor.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Maps/2D-Welt MyFloor.json",
-        "Maps/2D-Welt_B-Sem_Start.json",
         "Maps/2D-Welt_B-Sem_Info_1.json",
+        "Maps/2D-Welt_B-Sem_Start.json",
         "Maps/2D-Welt B-Seminar.json",
         "Maps/2D-Welt B-Seminar_Buchmann.json"
     ],

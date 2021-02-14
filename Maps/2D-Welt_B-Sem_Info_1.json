@@ -87,6 +87,12 @@
          "id":11,
          "name":"audioX",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"jens.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":116,
