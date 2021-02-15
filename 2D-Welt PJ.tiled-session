@@ -118,10 +118,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 1.03,
-            "selectedLayer": 0,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 654.8543689320389,
-                "y": 514.5631067961165
+                "x": 1141.2621359223301,
+                "y": 465.04854368932035
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -131,6 +131,9 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#Text_Katha_1": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Colours": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Functions": {
