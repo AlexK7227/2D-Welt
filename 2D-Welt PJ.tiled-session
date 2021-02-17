@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/2D-Welt B-Seminar_Buchmann.json",
+    "activeFile": "Maps/2D-Welt MyFloor.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -120,7 +120,7 @@
             "scale": 1.03,
             "selectedLayer": 27,
             "viewCenter": {
-                "x": 1141.2621359223301,
+                "x": 1140.2912621359224,
                 "y": 465.04854368932035
             }
         },
@@ -217,7 +217,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 16,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 1059.5,
                 "y": 987
@@ -284,7 +284,7 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 21,
+            "selectedLayer": 9,
             "viewCenter": {
                 "x": 630.5,
                 "y": 558
@@ -375,7 +375,7 @@
             "selectedLayer": 14,
             "viewCenter": {
                 "x": 491,
-                "y": 381.66666666666663
+                "y": 384
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -436,11 +436,11 @@
     "project": "2D-Welt PJ.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Maps/2D-Welt MyFloor.json",
+        "Maps/2D-Welt B-Seminar_Buchmann.json",
+        "Maps/2D-Welt B-Seminar.json",
         "Maps/2D-Welt_B-Sem_Info_1.json",
         "Maps/2D-Welt_B-Sem_Start.json",
-        "Maps/2D-Welt B-Seminar.json",
-        "Maps/2D-Welt B-Seminar_Buchmann.json"
+        "Maps/2D-Welt MyFloor.json"
     ],
     "tileset.embedInMap": true
 }
