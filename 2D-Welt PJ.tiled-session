@@ -15,8 +15,8 @@
             "scale": 1,
             "selectedLayer": 16,
             "viewCenter": {
-                "x": 1312,
-                "y": 1327.5
+                "x": 1216.5,
+                "y": 1690
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -118,10 +118,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 1.03,
-            "selectedLayer": 27,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 2239.8058252427186,
-                "y": 1897.5728155339805
+                "x": 564.5631067961166,
+                "y": 438.83495145631065
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -219,8 +219,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1051.5,
-                "y": 979
+                "x": 1050.5,
+                "y": 978
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -286,8 +286,8 @@
             "scale": 1,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 1840,
-                "y": 1887.5
+                "x": 662.5,
+                "y": 624
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -374,8 +374,8 @@
             "scale": 1.5,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1696,
-                "y": 1711.6666666666665
+                "x": 491,
+                "y": 384
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -422,7 +422,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 300,
+    "frame.defaultDuration": 500,
     "map.height": 90,
     "map.lastUsedFormat": "json",
     "map.width": 90,
