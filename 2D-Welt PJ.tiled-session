@@ -224,10 +224,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1424,
-                "y": 1439.5
+                "x": 1050.5,
+                "y": 978
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
