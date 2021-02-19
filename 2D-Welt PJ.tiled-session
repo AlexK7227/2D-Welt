@@ -3,13 +3,14 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/2D-Welt MyFloor.json",
+    "activeFile": "Maps/2D-Welt B-Seminar_Buchmann.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
@@ -118,10 +119,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 1.03,
-            "selectedLayer": 4,
+            "selectedLayer": 28,
             "viewCenter": {
-                "x": 564.5631067961166,
-                "y": 438.83495145631065
+                "x": 1001.4563106796115,
+                "y": 520.3883495145631
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -179,9 +180,15 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#clouds": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar_Buchmann.json#mapUtilities CCC": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#mintmist": {
+            "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#misc CCC": {
             "scaleInDock": 1,
@@ -219,8 +226,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1050.5,
-                "y": 978
+                "x": 1424,
+                "y": 1439.5
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -436,11 +443,11 @@
     "project": "2D-Welt PJ.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Maps/2D-Welt B-Seminar_Buchmann.json",
-        "Maps/2D-Welt B-Seminar.json",
-        "Maps/2D-Welt_B-Sem_Info_1.json",
+        "Maps/2D-Welt MyFloor.json",
         "Maps/2D-Welt_B-Sem_Start.json",
-        "Maps/2D-Welt MyFloor.json"
+        "Maps/2D-Welt_B-Sem_Info_1.json",
+        "Maps/2D-Welt B-Seminar.json",
+        "Maps/2D-Welt B-Seminar_Buchmann.json"
     ],
     "tileset.embedInMap": true
 }
