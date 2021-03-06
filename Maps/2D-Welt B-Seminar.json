@@ -177,6 +177,12 @@
          "id":40,
          "name":"vid_A2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/uni-siegen.sciebo.de\/remote.php\/webdav\/TVD\/Upload_Video-Podcasts\/Homepage\/Warum%201%20final.mp4"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":83,
