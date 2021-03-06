@@ -195,6 +195,12 @@
          "id":41,
          "name":"vid_A3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/drive.google.com\/file\/d\/1AKvUL1uaDswB0e7YNeDuNKEfrcHyaw0w\/view?usp=sharing"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":83,
