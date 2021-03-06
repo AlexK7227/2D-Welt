@@ -271,8 +271,8 @@
             "scale": 1,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 1190,
-                "y": 985.5
+                "x": 1168,
+                "y": 1085.5
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -437,10 +437,10 @@
         },
         "Maps/2D-Welt_B-Sem_Start.json": {
             "scale": 1.5,
-            "selectedLayer": 5,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 381.33333333333326,
-                "y": 411
+                "x": 454.6666666666667,
+                "y": 489.66666666666663
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
