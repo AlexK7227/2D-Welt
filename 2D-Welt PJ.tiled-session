@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/2D-Welt B-Seminar.json",
+    "activeFile": "Maps/2D-Welt B-Seminar_Buchmann.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -14,10 +14,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 20,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 1309,
-                "y": 1493.5
+                "x": 1307.5,
+                "y": 1651.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -86,6 +86,9 @@
         "Maps/2D-Welt B-Seminar.json#Tileset-Office": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json#Tileset-floor": {
             "scaleInDock": 1
         },
@@ -111,6 +114,9 @@
         "Maps/2D-Welt B-Seminar.json#prem3_doors": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json#premTileset-Furniture": {
             "scaleInDock": 1
         },
@@ -118,11 +124,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
-            "scale": 1.03,
-            "selectedLayer": 0,
+            "scale": 0.8317,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 852.4271844660194,
-                "y": 861.6504854368932
+                "x": 800.1683299266562,
+                "y": 742.4552122159432
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -151,6 +157,9 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-Walls+Alpaka": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#Tileset-floor": {
@@ -224,13 +233,19 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 10,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 1424,
-                "y": 1439.5
+                "x": 1244.5,
+                "y": 987.5
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt MyFloor.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt MyFloor.json#Tileset-Einhorn": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json#Tileset-Functions": {
@@ -241,6 +256,10 @@
         },
         "Maps/2D-Welt MyFloor.json#Tileset-Furniture_6": {
             "scaleInDock": 1
+        },
+        "Maps/2D-Welt MyFloor.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Maps/2D-Welt MyFloor.json#Tileset-floor": {
             "scaleInDock": 1
@@ -291,10 +310,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 9,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 653,
-                "y": 581.5
+                "x": 598.5,
+                "y": 611.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -371,6 +390,9 @@
         "Maps/2D-Welt_B-Sem_Info_1.json#prem2_base_out_atlas": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt_B-Sem_Info_1.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt_B-Sem_Info_1.json#premTileset-Furniture": {
             "scaleInDock": 1
         },
@@ -381,8 +403,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 471.99999999999994,
-                "y": 379.66666666666663
+                "x": 465.6666666666667,
+                "y": 372.33333333333326
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -429,7 +451,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 500,
+    "frame.defaultDuration": 100,
     "map.height": 90,
     "map.lastUsedFormat": "json",
     "map.width": 90,
@@ -443,11 +465,11 @@
     "project": "2D-Welt PJ.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Maps/2D-Welt B-Seminar_Buchmann.json",
         "Maps/2D-Welt MyFloor.json",
         "Maps/2D-Welt_B-Sem_Start.json",
         "Maps/2D-Welt_B-Sem_Info_1.json",
-        "Maps/2D-Welt B-Seminar.json"
+        "Maps/2D-Welt B-Seminar.json",
+        "Maps/2D-Welt B-Seminar_Buchmann.json"
     ],
     "tileset.embedInMap": true
 }
