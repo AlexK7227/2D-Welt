@@ -261,6 +261,12 @@
          "id":38,
          "name":"vid_B3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/vimeo.com\/520375496"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":83,
