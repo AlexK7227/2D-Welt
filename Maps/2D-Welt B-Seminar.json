@@ -213,6 +213,12 @@
          "id":42,
          "name":"vid_A4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexknke.wixsite.com\/b-seminar\/video-2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":83,
