@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/vimeo.com\/520375496"
+                 "value":"https:\/\/pizkaz.github.io\/video_poc\/test_vid.html"
                 }],
          "type":"tilelayer",
          "visible":true,
