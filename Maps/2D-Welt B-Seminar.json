@@ -321,6 +321,12 @@
          "id":44,
          "name":"vid_C2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.berufsschullehrer-werden.info\/vr-werkstatt.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":83,
