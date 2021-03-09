@@ -307,7 +307,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.berufsschullehrer-werden.info\/start.html"
                 }],
          "type":"tilelayer",
          "visible":true,
