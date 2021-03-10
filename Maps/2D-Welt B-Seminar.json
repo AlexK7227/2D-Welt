@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/de.wikipedia.org\/wiki\/Howto"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/vid_A.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,7 +397,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Gruppe_3"
                 }],
          "type":"tilelayer",
          "visible":true,

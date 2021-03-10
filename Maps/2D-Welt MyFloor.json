@@ -97,7 +97,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"K\u00f6nke"
                 }],
          "type":"tilelayer",
          "visible":true,

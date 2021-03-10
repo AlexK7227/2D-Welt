@@ -117,7 +117,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Lagerfeuer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -135,7 +135,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Ecke_1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,7 +153,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Ecke_2"
                 }],
          "type":"tilelayer",
          "visible":true,
