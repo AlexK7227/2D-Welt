@@ -82,10 +82,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 30,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1191,
-                "y": 1602.5
+                "x": 1486,
+                "y": 1637.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -569,6 +569,7 @@
     "project": "2D-Welt PJ.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "../2D Welt (div)/world-map-starterkit-master/big.json",
         "Maps/2D-Welt MyFloor.json",
         "Maps/2D-Welt_B-Sem_Start.json",
         "Maps/2D-Welt_B-Sem_Info_1.json",
