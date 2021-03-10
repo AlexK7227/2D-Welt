@@ -379,7 +379,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Gruppe_2"
                 }],
          "type":"tilelayer",
          "visible":true,
