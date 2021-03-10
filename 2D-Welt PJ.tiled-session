@@ -82,7 +82,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 34,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 1484,
                 "y": 1635.5
@@ -231,8 +231,8 @@
             "scale": 0.8317,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1080.9186004568955,
-                "y": 639.0525429842492
+                "x": 868.1014788986413,
+                "y": 635.4454731273295
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -337,7 +337,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 7,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 1166,
                 "y": 1046.5
@@ -414,7 +414,7 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 21,
             "viewCenter": {
                 "x": 565,
                 "y": 623.5
@@ -507,8 +507,8 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 308.6666666666667,
-                "y": 402.3333333333333
+                "x": 463.33333333333326,
+                "y": 431
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
