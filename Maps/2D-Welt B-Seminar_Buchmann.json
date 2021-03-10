@@ -67,9 +67,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/world.chaosflux.de\/_\/global\/gitlab.hasi.it\/hasi\/hybr1s_workadventure_maps\/-\/raw\/werkstatt\/edition19.json#from_agora"
                 }],
          "type":"tilelayer",
          "visible":true,
