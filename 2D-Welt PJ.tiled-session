@@ -12,12 +12,80 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "../2D Welt (div)/world-map-starterkit-master/big.json": {
+            "scale": 0.7623749999999999,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 798.8194786030498,
+                "y": 1011.9691752746354
+            }
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#01_fire_extinguisher": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#05_mate_bottles_full": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#07_right_mate_bottles_flora": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#11_coffee2": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#13_stone_tile_hatch": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#13_winkekatze": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#AceSet-Hospital": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#dk_lines": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#fairydust": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#minideko": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#misc": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#rc3": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#testing_set": {
+            "scaleInDock": 1
+        },
+        "../2D Welt (div)/world-map-starterkit-master/big.json#text": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 1323,
-                "y": 1710.5
+                "x": 1321,
+                "y": 1630.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -163,8 +231,8 @@
             "scale": 0.8317,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 871.7085487555609,
-                "y": 851.8696645425032
+                "x": 869.3038355176145,
+                "y": 806.1801130215222
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -348,8 +416,8 @@
             "scale": 1,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 566,
-                "y": 661.5
+                "x": 565,
+                "y": 623.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {

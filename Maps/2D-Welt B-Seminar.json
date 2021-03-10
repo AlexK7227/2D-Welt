@@ -361,7 +361,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Gruppe_1"
                 }],
          "type":"tilelayer",
          "visible":true,
