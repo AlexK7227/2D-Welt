@@ -82,10 +82,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1,
-            "selectedLayer": 9,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1462,
-                "y": 1671.5
+                "x": 958,
+                "y": 1632.5
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -229,7 +229,7 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.8317,
-            "selectedLayer": 3,
+            "selectedLayer": 32,
             "viewCenter": {
                 "x": 833.2331369484189,
                 "y": 593.3629914632679
