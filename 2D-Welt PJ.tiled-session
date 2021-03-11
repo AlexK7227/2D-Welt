@@ -81,11 +81,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 1,
-            "selectedLayer": 14,
+            "scale": 1.06,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 958,
-                "y": 1632.5
+                "x": 987.7358490566037,
+                "y": 1772.1698113207547
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -160,6 +160,24 @@
         "Maps/2D-Welt B-Seminar.json#C4": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar.json#G1a": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#G1b": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#G1c": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#G1d": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#G2": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#G3": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json#TVD_3": {
             "scaleInDock": 1
         },
@@ -205,6 +223,9 @@
         "Maps/2D-Welt B-Seminar.json#ccc Basics": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar.json#clouds": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json#genericItem_color_004": {
             "scaleInDock": 1
         },
@@ -213,6 +234,9 @@
             "scaleInEditor": 1
         },
         "Maps/2D-Welt B-Seminar.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#prem1_furniture": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json#prem3_doors": {
@@ -229,10 +253,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.8317,
-            "selectedLayer": 32,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 833.2331369484189,
-                "y": 593.3629914632679
+                "x": 688.9503426716363,
+                "y": 542.8640134663941
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -335,9 +359,12 @@
         "Maps/2D-Welt B-Seminar_Buchmann.json#premTileset-Furniture_2": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar_Buchmann.json#tiles_werkstatt": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 10,
             "viewCenter": {
                 "x": 1166,
                 "y": 1046.5
@@ -414,10 +441,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 21,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 565,
-                "y": 623.5
+                "x": 564,
+                "y": 549.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -567,7 +594,7 @@
         "Maps/2D-Welt MyFloor.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "../2D Welt (div)/world-map-starterkit-master/big.json",
         "Maps/2D-Welt MyFloor.json",
