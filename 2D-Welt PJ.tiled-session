@@ -92,8 +92,8 @@
             "scale": 1.06,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 1065.0943396226414,
-                "y": 1806.132075471698
+                "x": 1063.2075471698113,
+                "y": 1749.5283018867924
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -371,14 +371,17 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json": {
-            "scale": 0.9056,
-            "selectedLayer": -1,
+            "scale": 1.2349,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 626.1042402826855,
-                "y": 628.8648409893992
+                "x": 529.5975382622073,
+                "y": 611.7904283747671
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt MyFloor.json#Könke": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json#Tileset-Colours": {
@@ -449,10 +452,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.166,
-            "selectedLayer": 21,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 494.8542024013722,
-                "y": 741.4236706689537
+                "x": 493.13893653516305,
+                "y": 516.7238421955403
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
