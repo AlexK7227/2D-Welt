@@ -80,12 +80,20 @@
         "../2D Welt (div)/world-map-starterkit-master/big.json#text": {
             "scaleInDock": 1
         },
+        "Maps/2D-TVD.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -16,
+                "y": 16.5
+            }
+        },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 1.06,
-            "selectedLayer": 9,
+            "selectedLayer": 23,
             "viewCenter": {
-                "x": 987.7358490566037,
-                "y": 1772.1698113207547
+                "x": 1065.0943396226414,
+                "y": 1806.132075471698
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -363,11 +371,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json": {
-            "scale": 1,
-            "selectedLayer": 10,
+            "scale": 0.9056,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 1166,
-                "y": 1046.5
+                "x": 685.7332155477034,
+                "y": 621.1351590106008
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -443,8 +451,8 @@
             "scale": 1,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 564,
-                "y": 549.5
+                "x": 492,
+                "y": 452.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -534,8 +542,8 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 463.33333333333326,
-                "y": 431
+                "x": 519.3333333333333,
+                "y": 430.3333333333333
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -583,6 +591,7 @@
         }
     },
     "frame.defaultDuration": 100,
+    "map.fixedSize": false,
     "map.height": 90,
     "map.lastUsedFormat": "json",
     "map.width": 90,
@@ -596,6 +605,7 @@
     "project": "2D-Welt PJ.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Maps/2D-TVD.json",
         "../2D Welt (div)/world-map-starterkit-master/big.json",
         "Maps/2D-Welt MyFloor.json",
         "Maps/2D-Welt_B-Sem_Start.json",
