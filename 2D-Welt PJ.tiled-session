@@ -448,11 +448,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
-            "scale": 1,
-            "selectedLayer": 9,
+            "scale": 1.166,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 492,
-                "y": 681.5
+                "x": 494.8542024013722,
+                "y": 741.4236706689537
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -498,6 +498,21 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#35_pflanze1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Bubenzer": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Dreher": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Jüngst": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Kupfer": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt_B-Sem_Info_1.json#Schneider": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#Tileset-Functions": {
