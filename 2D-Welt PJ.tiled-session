@@ -89,11 +89,11 @@
             }
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 1.06,
-            "selectedLayer": 23,
+            "scale": 1.0614,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 1063.2075471698113,
-                "y": 1749.5283018867924
+                "x": 1095.7226304880348,
+                "y": 1536.1786319954776
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -260,11 +260,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
-            "scale": 0.8317,
-            "selectedLayer": 13,
+            "scale": 0.83,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 764.6988096669472,
-                "y": 558.4946495130455
+                "x": 767.4698795180724,
+                "y": 1136.7469879518071
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -370,12 +370,61 @@
         "Maps/2D-Welt B-Seminar_Buchmann.json#tiles_werkstatt": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt Dungeon.json": {
+            "scale": 0.98,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 879.591836734694,
+                "y": 969.8979591836735
+            }
+        },
+        "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#Figuren + Pkemn": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#GC_CC_Main": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#GK_CC_AnimatedWater": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/2D-Welt Dungeon.json#Saurial_idle_diag Kopie": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/2D-Welt Dungeon.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#prem2_base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt Dungeon.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1.2349,
-            "selectedLayer": 13,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 529.5975382622073,
-                "y": 611.7904283747671
+                "x": 573.3257753664265,
+                "y": 719.4914567981211
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -452,10 +501,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.166,
-            "selectedLayer": 15,
+            "selectedLayer": 26,
             "viewCenter": {
-                "x": 493.13893653516305,
-                "y": 516.7238421955403
+                "x": 455.4030874785592,
+                "y": 382.07547169811323
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -608,11 +657,11 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 100,
-    "map.fixedSize": false,
-    "map.height": 90,
+    "frame.defaultDuration": 300,
+    "map.fixedSize": true,
+    "map.height": 50,
     "map.lastUsedFormat": "json",
-    "map.width": 90,
+    "map.width": 50,
     "openFiles": [
         "Maps/2D-Welt B-Seminar_Buchmann.json",
         "Maps/2D-Welt B-Seminar.json",
@@ -621,7 +670,7 @@
         "Maps/2D-Welt MyFloor.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Maps/2D-TVD.json",
         "../2D Welt (div)/world-map-starterkit-master/big.json",
