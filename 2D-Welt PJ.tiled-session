@@ -413,8 +413,8 @@
             "scale": 0.98,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 871.4285714285714,
-                "y": 961.7346938775511
+                "x": 870.4081632653061,
+                "y": 960.7142857142858
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -461,10 +461,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1.2349,
-            "selectedLayer": 28,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 569.2768645234431,
-                "y": 494.37201392825324
+                "x": 545.7931816341404,
+                "y": 394.76880719086563
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -541,7 +541,7 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.16,
-            "selectedLayer": 0,
+            "selectedLayer": 17,
             "viewCenter": {
                 "x": 587.0689655172414,
                 "y": 553.0172413793103
