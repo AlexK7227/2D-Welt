@@ -300,7 +300,7 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.83,
-            "selectedLayer": 8,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 610.8433734939761,
                 "y": 1377.7108433734943
@@ -411,7 +411,7 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 0.98,
-            "selectedLayer": 15,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 876.530612244898,
                 "y": 966.8367346938776
@@ -541,10 +541,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.166,
-            "selectedLayer": 26,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 454.54545454545456,
-                "y": 475.55746140651803
+                "y": 1152.2298456260723
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
