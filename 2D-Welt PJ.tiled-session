@@ -90,7 +90,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.84,
-            "selectedLayer": 46,
+            "selectedLayer": 24,
             "viewCenter": {
                 "x": 1015.4761904761904,
                 "y": 676.7857142857143
@@ -461,10 +461,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1.2349,
-            "selectedLayer": 8,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 570.8964288606364,
-                "y": 593.1654384970443
+                "x": 570.0866466920398,
+                "y": 592.3556563284476
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -541,7 +541,7 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.166,
-            "selectedLayer": 6,
+            "selectedLayer": 15,
             "viewCenter": {
                 "x": 452.8301886792453,
                 "y": 567.3241852487135

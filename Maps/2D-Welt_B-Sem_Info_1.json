@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Radwuchten.pdf"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/G1_Wuchten.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/de.wikipedia.org\/wiki\/Howto"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/G2_Oelwechsel_1.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/de.wikipedia.org\/wiki\/Howto"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/G3_Checkliste_1.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
