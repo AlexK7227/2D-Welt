@@ -423,6 +423,17 @@
          "id":48,
          "name":"vid_B5a",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B5a.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -435,6 +446,17 @@
          "id":49,
          "name":"vid_B5b",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B5b.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -447,6 +469,17 @@
          "id":50,
          "name":"vid_B6a",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B6a.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -459,6 +492,17 @@
          "id":51,
          "name":"vid_B6b",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B6b.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -471,6 +515,17 @@
          "id":52,
          "name":"vid_B6c",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B6c.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -483,6 +538,17 @@
          "id":53,
          "name":"vid_B6d",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B6d.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -495,6 +561,17 @@
          "id":54,
          "name":"vid_B7a",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B7a.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -507,6 +584,17 @@
          "id":55,
          "name":"vid_B7b",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B7b.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -519,6 +607,17 @@
          "id":56,
          "name":"vid_B7c",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Video-Links\/B7c.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
