@@ -372,10 +372,10 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 0.98,
-            "selectedLayer": 2,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 879.591836734694,
-                "y": 969.8979591836735
+                "x": 878.5714285714287,
+                "y": 968.8775510204082
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
