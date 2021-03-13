@@ -90,10 +90,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.84,
-            "selectedLayer": 46,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1280.952380952381,
-                "y": 586.3095238095239
+                "x": 734.5238095238095,
+                "y": 781.547619047619
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -300,10 +300,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.83,
-            "selectedLayer": 6,
+            "selectedLayer": 34,
             "viewCenter": {
-                "x": 610.8433734939761,
-                "y": 1377.7108433734943
+                "x": 1303.6144578313254,
+                "y": 675.3012048192771
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -411,10 +411,10 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 0.98,
-            "selectedLayer": 2,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 876.530612244898,
-                "y": 966.8367346938776
+                "x": 871.4285714285714,
+                "y": 961.7346938775511
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -540,11 +540,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
-            "scale": 1.166,
-            "selectedLayer": 14,
+            "scale": 1.16,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 451.97255574614064,
-                "y": 907.8044596912522
+                "x": 587.0689655172414,
+                "y": 553.0172413793103
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
