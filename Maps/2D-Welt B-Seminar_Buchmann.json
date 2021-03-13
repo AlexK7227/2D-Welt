@@ -105,7 +105,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/world.chaosflux.de\/_\/global\/gitlab.hasi.it\/hasi\/hybr1s_workadventure_maps\/-\/raw\/werkstatt\/edition19.json#from_agora"
+                 "value":"https:\/\/world.chaosflux.de\/_\/global\/gitlab.hasi.it\/hasi\/hybr1s_workadventure_maps\/-\/raw\/FAKTUR\/werkstatt.json#from_agora"
                 }],
          "type":"tilelayer",
          "visible":true,
