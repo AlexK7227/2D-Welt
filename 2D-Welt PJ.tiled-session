@@ -89,11 +89,11 @@
             }
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 1.0614,
-            "selectedLayer": 21,
+            "scale": 0.84,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1095.7226304880348,
-                "y": 1536.1786319954776
+                "x": 1816.6666666666665,
+                "y": 664.8809523809523
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -154,6 +154,33 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json#B4": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B5a": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B5b": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B6a": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B6b": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B6c": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B6d": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B7a": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B7b": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#B7c": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json#C1": {
@@ -228,6 +255,18 @@
         "Maps/2D-Welt B-Seminar.json#Tileset-instruments": {
             "scaleInDock": 1
         },
+        "Maps/2D-Welt B-Seminar.json#Txt_Gebrauchtwagenbewertung": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Txt_Lernsituationsmatrize": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Txt_Masterlösung": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Txt_Verlaufsplanung": {
+            "scaleInDock": 1
+        },
         "Maps/2D-Welt B-Seminar.json#ccc Basics": {
             "scaleInDock": 1
         },
@@ -261,10 +300,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.83,
-            "selectedLayer": 3,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1087.9518072289159,
-                "y": 1177.7108433734943
+                "x": 610.8433734939761,
+                "y": 1377.7108433734943
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -374,8 +413,8 @@
             "scale": 0.98,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 878.5714285714287,
-                "y": 968.8775510204082
+                "x": 876.530612244898,
+                "y": 966.8367346938776
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -422,10 +461,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1.2349,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 573.3257753664265,
-                "y": 719.4914567981211
+                "x": 572.5159931978296,
+                "y": 58.70920722325695
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -504,8 +543,8 @@
             "scale": 1.166,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 455.4030874785592,
-                "y": 382.07547169811323
+                "x": 454.54545454545456,
+                "y": 475.55746140651803
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
