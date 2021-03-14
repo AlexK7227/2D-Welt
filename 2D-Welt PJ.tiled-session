@@ -89,11 +89,11 @@
             }
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 0.84,
-            "selectedLayer": 21,
+            "scale": 0.6613,
+            "selectedLayer": 46,
             "viewCenter": {
-                "x": 953.5714285714286,
-                "y": 672.0238095238094
+                "x": 1279.2983517314383,
+                "y": 691.8191441100862
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -299,11 +299,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
-            "scale": 0.83,
+            "scale": 0.5354,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 807.2289156626506,
-                "y": 1043.9759036144578
+                "x": 915.2035861038477,
+                "y": 910.5341800522972
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -467,7 +467,7 @@
             "selectedLayer": 22,
             "viewCenter": {
                 "x": 533.6735826029069,
-                "y": 388.8827249528459
+                "y": 674.0264063020082
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -543,11 +543,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
-            "scale": 1.16,
-            "selectedLayer": 1,
+            "scale": 0.9649,
+            "selectedLayer": -1,
             "viewCenter": {
-                "x": 480.1724137931035,
-                "y": 632.3275862068966
+                "x": 604.2076899160535,
+                "y": 486.57892009534663
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -649,11 +649,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Start.json": {
-            "scale": 1.5,
+            "scale": 1.2023,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 534.6666666666666,
-                "y": 422.3333333333333
+                "x": 622.1408966148216,
+                "y": 420.444148714963
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
