@@ -463,11 +463,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json": {
-            "scale": 1.2349,
-            "selectedLayer": 15,
+            "scale": 0.9013,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 368.4508867114745,
-                "y": 137.25807757713176
+                "x": 535.8925995783868,
+                "y": 601.9083545989126
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
