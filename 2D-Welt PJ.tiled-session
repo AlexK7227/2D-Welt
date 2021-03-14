@@ -92,7 +92,7 @@
             "scale": 0.84,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 955.952380952381,
+                "x": 953.5714285714286,
                 "y": 672.0238095238094
             }
         },
@@ -302,8 +302,8 @@
             "scale": 0.83,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 731.3253012048194,
-                "y": 676.5060240963855
+                "x": 807.2289156626506,
+                "y": 1043.9759036144578
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -466,8 +466,8 @@
             "scale": 0.9013,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 534.7830910906468,
-                "y": 778.3202041495618
+                "x": 533.6735826029069,
+                "y": 388.8827249528459
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -546,8 +546,8 @@
             "scale": 1.16,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 482.7586206896552,
-                "y": 484.05172413793105
+                "x": 480.1724137931035,
+                "y": 632.3275862068966
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
