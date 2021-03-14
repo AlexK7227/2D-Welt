@@ -143,7 +143,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"string",
+                 "value":"0.5"
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"fun.mp3"
                 }],

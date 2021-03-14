@@ -90,7 +90,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.84,
-            "selectedLayer": 14,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 927.3809523809523,
                 "y": 726.7857142857143
@@ -300,10 +300,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.83,
-            "selectedLayer": 9,
+            "selectedLayer": 35,
             "viewCenter": {
-                "x": 734.9397590361447,
-                "y": 1687.3493975903616
+                "x": 833.7349397590361,
+                "y": 1150
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -414,7 +414,7 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 0.98,
-            "selectedLayer": 6,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 870.4081632653061,
                 "y": 960.7142857142858
@@ -464,10 +464,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1.2349,
-            "selectedLayer": 11,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 544.9833994655438,
-                "y": 853.1055146165681
+                "x": 543.3638351283504,
+                "y": 716.2523281237347
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -546,8 +546,8 @@
             "scale": 1.16,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 574.1379310344828,
-                "y": 575.4310344827586
+                "x": 573.2758620689656,
+                "y": 770.2586206896552
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -719,7 +719,7 @@
         "Maps/2D-Welt MyFloor.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "float",
+    "property.type": "string",
     "recentFiles": [
         "Maps/2D-TVD.json",
         "../2D Welt (div)/world-map-starterkit-master/big.json",
