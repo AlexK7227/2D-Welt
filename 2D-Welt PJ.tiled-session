@@ -464,10 +464,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 0.9013,
-            "selectedLayer": 16,
+            "selectedLayer": 31,
             "viewCenter": {
                 "x": 534.7830910906468,
-                "y": 601.9083545989126
+                "y": 778.3202041495618
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -544,10 +544,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.16,
-            "selectedLayer": 18,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 482.7586206896552,
-                "y": 308.18965517241384
+                "y": 484.05172413793105
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
