@@ -90,7 +90,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.84,
-            "selectedLayer": 8,
+            "selectedLayer": 40,
             "viewCenter": {
                 "x": 927.3809523809523,
                 "y": 726.7857142857143
@@ -300,10 +300,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.83,
-            "selectedLayer": 35,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 833.7349397590361,
-                "y": 1150
+                "x": 732.5301204819278,
+                "y": 676.5060240963855
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -414,7 +414,7 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 0.98,
-            "selectedLayer": 4,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 870.4081632653061,
                 "y": 960.7142857142858
@@ -466,8 +466,8 @@
             "scale": 1.2349,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 543.3638351283504,
-                "y": 716.2523281237347
+                "x": 368.4508867114745,
+                "y": 137.25807757713176
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -544,10 +544,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.16,
-            "selectedLayer": 22,
+            "selectedLayer": 13,
             "viewCenter": {
                 "x": 573.2758620689656,
-                "y": 770.2586206896552
+                "y": 552.1551724137931
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
