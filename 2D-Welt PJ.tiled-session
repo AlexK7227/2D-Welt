@@ -92,8 +92,8 @@
             "scale": 0.84,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 928.5714285714286,
-                "y": 727.9761904761904
+                "x": 927.3809523809523,
+                "y": 726.7857142857143
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -300,10 +300,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.83,
-            "selectedLayer": 26,
+            "selectedLayer": 9,
             "viewCenter": {
                 "x": 734.9397590361447,
-                "y": 721.0843373493976
+                "y": 1687.3493975903616
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -414,7 +414,7 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 0.98,
-            "selectedLayer": 5,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 870.4081632653061,
                 "y": 960.7142857142858
@@ -464,10 +464,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 1.2349,
-            "selectedLayer": 18,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 544.9833994655438,
-                "y": 533.2415580208923
+                "y": 853.1055146165681
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -719,7 +719,7 @@
         "Maps/2D-Welt MyFloor.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "bool",
+    "property.type": "float",
     "recentFiles": [
         "Maps/2D-TVD.json",
         "../2D Welt (div)/world-map-starterkit-master/big.json",
