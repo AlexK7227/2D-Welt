@@ -90,7 +90,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.84,
-            "selectedLayer": 40,
+            "selectedLayer": 21,
             "viewCenter": {
                 "x": 927.3809523809523,
                 "y": 726.7857142857143
@@ -302,7 +302,7 @@
             "scale": 0.83,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 732.5301204819278,
+                "x": 731.3253012048194,
                 "y": 676.5060240963855
             }
         },
@@ -546,8 +546,8 @@
             "scale": 1.16,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 573.2758620689656,
-                "y": 552.1551724137931
+                "x": 482.7586206896552,
+                "y": 308.18965517241384
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -650,7 +650,7 @@
         },
         "Maps/2D-Welt_B-Sem_Start.json": {
             "scale": 1.5,
-            "selectedLayer": 15,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 534.6666666666666,
                 "y": 422.3333333333333
