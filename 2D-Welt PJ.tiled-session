@@ -302,7 +302,7 @@
             "scale": 0.5354,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 915.2035861038477,
+                "x": 913.3358236832275,
                 "y": 910.5341800522972
             }
         },
@@ -413,11 +413,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt Dungeon.json": {
-            "scale": 0.98,
-            "selectedLayer": 6,
+            "scale": 1,
+            "selectedLayer": -1,
             "viewCenter": {
-                "x": 870.4081632653061,
-                "y": 960.7142857142858
+                "x": 619,
+                "y": 580.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -467,7 +467,7 @@
             "selectedLayer": 22,
             "viewCenter": {
                 "x": 533.6735826029069,
-                "y": 674.0264063020082
+                "y": 672.9168978142683
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -652,8 +652,8 @@
             "scale": 1.2023,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 622.1408966148216,
-                "y": 420.444148714963
+                "x": 484.0721949596608,
+                "y": 378.0254512184979
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
