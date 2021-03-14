@@ -92,8 +92,8 @@
             "scale": 0.84,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 927.3809523809523,
-                "y": 726.7857142857143
+                "x": 955.952380952381,
+                "y": 672.0238095238094
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -464,9 +464,9 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 0.9013,
-            "selectedLayer": 0,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 535.8925995783868,
+                "x": 534.7830910906468,
                 "y": 601.9083545989126
             }
         },
@@ -544,7 +544,7 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1.16,
-            "selectedLayer": 13,
+            "selectedLayer": 18,
             "viewCenter": {
                 "x": 482.7586206896552,
                 "y": 308.18965517241384
