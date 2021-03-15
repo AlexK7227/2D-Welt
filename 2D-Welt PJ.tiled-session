@@ -90,7 +90,7 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.6613,
-            "selectedLayer": 46,
+            "selectedLayer": 42,
             "viewCenter": {
                 "x": 1563.5868743384244,
                 "y": 625.2835324361106
@@ -142,6 +142,9 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json#A4": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt B-Seminar.json#Ablaufplan": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar.json#B1": {
