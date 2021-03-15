@@ -464,7 +464,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 0.9013,
-            "selectedLayer": 22,
+            "selectedLayer": 10,
             "viewCenter": {
                 "x": 742.261178298014,
                 "y": 622.9890158659714
@@ -502,6 +502,9 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/2D-Welt MyFloor.json#Weiß": {
             "scaleInDock": 1
         },
         "Maps/2D-Welt MyFloor.json#mapUtilities CCC": {
