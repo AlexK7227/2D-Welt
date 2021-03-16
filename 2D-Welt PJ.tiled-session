@@ -90,10 +90,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.6613,
-            "selectedLayer": 18,
+            "selectedLayer": 48,
             "viewCenter": {
-                "x": 1563.5868743384242,
-                "y": 625.2835324361107
+                "x": 1457.7347648570997,
+                "y": 665.3561167397551
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -303,10 +303,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.8142,
-            "selectedLayer": 3,
+            "selectedLayer": 37,
             "viewCenter": {
-                "x": 821.6654384672069,
-                "y": 1082.6578236305575
+                "x": 878.1626136084499,
+                "y": 1112.7487103905673
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -419,8 +419,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 691,
-                "y": 455.5
+                "x": 690,
+                "y": 626.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -469,8 +469,8 @@
             "scale": 0.9013,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 527.0165316764674,
-                "y": 623.5437701098414
+                "x": 742.261178298014,
+                "y": 622.9890158659714
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -552,8 +552,8 @@
             "scale": 0.9649,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 799.046533319515,
-                "y": 442.0147165509379
+                "x": 725.4637786299098,
+                "y": 812.5194320654989
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -658,8 +658,8 @@
             "scale": 1.2023,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 591.3665474507195,
-                "y": 511.5195874573734
+                "x": 639.6074191133662,
+                "y": 392.99675621725027
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -709,6 +709,336 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Start.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json": {
+            "scale": 0.7639583333333333,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 544.5323152440687,
+                "y": 723.861467139351
+            }
+        },
+        "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#01_mate Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#02_chairs_grey Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#03_chairs_blue Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#03_eh-wandschrank_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#09_workstations Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#10_paperwork Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#12_telephone_upright Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#15_Pizza Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#16_uhr_weiss Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#35_kuehlfaecher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#35_pflanze1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Bubenzer": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Dreher": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Jüngst": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Kupfer": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Schneider": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#prem2_base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info1.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json": {
+            "scale": 1.025146484375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 636.9821386044296,
+                "y": 537.4841628959276
+            }
+        },
+        "Maps/Schulprojekt_Start.json#01_stone_tile1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#07_wear_your_mask_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#TVD": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#TVD_3": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Tileset-Car_1": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Tileset-Car_4": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#Txt_Info": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Start.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json": {
+            "scale": 0.7538,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 1028.124170867604,
+                "y": 874.2371981958079
+            }
+        },
+        "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#02_chairs_grey Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#03_chairs_blue Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#03_draeger_gamma Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#03_eh-wandschrank_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#09_workstations Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#10_paperwork Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#12_telephone_upright Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#17_muelleimer1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#35_kuehlfaecher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Ablaufplan": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B5a": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B5b": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B6a": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B6b": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B6c": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B6d": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B7a": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B7b": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#B7c": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#G1a": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#G1b": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#G1c": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#G1d": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#G2": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#G3": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#TVD_3": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Car_1": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Car_4": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Furniture_1": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Furniture_5": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Office": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Txt_Lernsituationsmatrize": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Txt_Masterlösung": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#Txt_Verlaufsplanung": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#ccc Basics": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#clouds": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#prem1_furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Werkstatt.json#premTileset-Furniture_2": {
             "scaleInDock": 1
         }
     },
