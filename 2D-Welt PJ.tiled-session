@@ -303,10 +303,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.8142,
-            "selectedLayer": 36,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1884.0579710144925,
-                "y": 1097.3962171456642
+                "x": 821.6654384672069,
+                "y": 1082.6578236305575
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -417,10 +417,10 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 1,
-            "selectedLayer": -1,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 807,
-                "y": 536.5
+                "x": 691,
+                "y": 455.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -725,7 +725,7 @@
         "Maps/2D-Welt MyFloor.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Maps/2D-TVD.json",
         "../2D Welt (div)/world-map-starterkit-master/big.json",
