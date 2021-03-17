@@ -713,10 +713,10 @@
         },
         "Maps/Schulprojekt_Info1.json": {
             "scale": 0.9346,
-            "selectedLayer": 3,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 551.0378771667023,
-                "y": 673.0151936657393
+                "x": 593.3019473571582,
+                "y": 504.49390113417496
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -820,10 +820,10 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 5,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 472.41379310344826,
-                "y": 799.1379310344828
+                "x": 465.94827586206895,
+                "y": 791.8103448275863
             }
         },
         "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
@@ -900,10 +900,10 @@
         },
         "Maps/Schulprojekt_Start.json": {
             "scale": 1.025146484375,
-            "selectedLayer": 2,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 636.9821386044296,
-                "y": 537.4841628959276
+                "x": 628.6906406287212,
+                "y": 529.192664920219
             }
         },
         "Maps/Schulprojekt_Start.json#01_stone_tile1 Kopie": {
@@ -958,8 +958,8 @@
             "scale": 1.0669,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 983.2224200956041,
-                "y": 798.5753116505765
+                "x": 884.3378011060081,
+                "y": 699.6906926609805
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
