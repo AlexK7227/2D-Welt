@@ -90,10 +90,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.9485,
-            "selectedLayer": 1,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 1099.103848181339,
-                "y": 769.1091196626252
+                "x": 938.3236689509752,
+                "y": 821.2967843964153
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -552,8 +552,8 @@
             "scale": 0.9649,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 717.6909524303036,
-                "y": 804.7466058658928
+                "x": 724.4274018032955,
+                "y": 810.4466784122707
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -658,8 +658,8 @@
             "scale": 1.2023,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 639.6074191133662,
-                "y": 392.99675621725027
+                "x": 677.8674207768445,
+                "y": 414.2061049654829
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -713,10 +713,10 @@
         },
         "Maps/Schulprojekt_Info1.json": {
             "scale": 0.9346,
-            "selectedLayer": 12,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 545.1530066338541,
-                "y": 704.5794992510164
+                "x": 552.1078536272203,
+                "y": 709.3943933233468
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -820,10 +820,10 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 18,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 466.8103448275862,
-                "y": 794.3965517241379
+                "x": 472.41379310344826,
+                "y": 799.1379310344828
             }
         },
         "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
@@ -956,10 +956,10 @@
         },
         "Maps/Schulprojekt_Werkstatt.json": {
             "scale": 1.0669,
-            "selectedLayer": 20,
+            "selectedLayer": 38,
             "viewCenter": {
-                "x": 965.8824632111726,
-                "y": 727.8095416627614
+                "x": 984.1597150623302,
+                "y": 799.5126066173025
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
