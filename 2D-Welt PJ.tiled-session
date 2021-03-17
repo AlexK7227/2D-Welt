@@ -92,8 +92,8 @@
             "scale": 0.9485,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 938.3236689509752,
-                "y": 821.2967843964153
+                "x": 929.3621507643649,
+                "y": 812.335266209805
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -305,8 +305,8 @@
             "scale": 0.8142,
             "selectedLayer": 37,
             "viewCenter": {
-                "x": 878.1626136084499,
-                "y": 1112.7487103905673
+                "x": 868.9511176615081,
+                "y": 1103.5372144436255
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -713,10 +713,10 @@
         },
         "Maps/Schulprojekt_Info1.json": {
             "scale": 0.9346,
-            "selectedLayer": 24,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 593.3019473571582,
-                "y": 504.49390113417496
+                "y": 559.0627006205863
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -806,6 +806,9 @@
         "Maps/Schulprojekt_Info1.json#misc CCC": {
             "scaleInDock": 1
         },
+        "Maps/Schulprojekt_Info1.json#prem1_furniture": {
+            "scaleInDock": 1
+        },
         "Maps/Schulprojekt_Info1.json#prem2_base_out_atlas": {
             "scaleInDock": 1
         },
@@ -820,7 +823,7 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 22,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 465.94827586206895,
                 "y": 791.8103448275863
@@ -956,10 +959,10 @@
         },
         "Maps/Schulprojekt_Werkstatt.json": {
             "scale": 1.0669,
-            "selectedLayer": 38,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 1781.3290842628176,
-                "y": 768.1132252319806
+                "x": 688.4431530602682,
+                "y": 677.1956134595558
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
