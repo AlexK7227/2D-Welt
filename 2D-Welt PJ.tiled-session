@@ -716,7 +716,7 @@
             "selectedLayer": 11,
             "viewCenter": {
                 "x": 593.3019473571582,
-                "y": 559.0627006205863
+                "y": 735.6088166060346
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -823,7 +823,7 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 8,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 465.94827586206895,
                 "y": 791.8103448275863
@@ -959,10 +959,10 @@
         },
         "Maps/Schulprojekt_Werkstatt.json": {
             "scale": 1.0669,
-            "selectedLayer": 9,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 688.4431530602682,
-                "y": 677.1956134595558
+                "x": 1166.4635860905428,
+                "y": 1423.2824069734747
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
