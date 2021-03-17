@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"2D-Welt B-Seminar.json#startOffice"
+                 "value":"Schulprojekt_Werkstatt.json#startOffice"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2D-Welt MyFloor.json"
+                 "value":"Schulprojekt_Info2.json"
                 }],
          "type":"tilelayer",
          "visible":true,

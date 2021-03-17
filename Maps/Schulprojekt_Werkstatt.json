@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2D-Welt_B-Sem_Info_1.json"
+                 "value":"Schulprojekt_Info1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"2D-Welt_B-Sem_Start.json#startDoor"
+                 "value":"Schulprojekt_Start.json#startDoor"
                 }],
          "type":"tilelayer",
          "visible":true,
