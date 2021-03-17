@@ -89,11 +89,11 @@
             }
         },
         "Maps/2D-Welt B-Seminar.json": {
-            "scale": 0.6613,
-            "selectedLayer": 48,
+            "scale": 0.9485,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1457.7347648570997,
-                "y": 665.3561167397551
+                "x": 1099.103848181339,
+                "y": 769.1091196626252
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -419,8 +419,8 @@
             "scale": 1,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 690,
-                "y": 626.5
+                "x": 728.5,
+                "y": 644.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -552,8 +552,8 @@
             "scale": 0.9649,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 725.4637786299098,
-                "y": 812.5194320654989
+                "x": 717.6909524303036,
+                "y": 804.7466058658928
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -712,11 +712,11 @@
             "scaleInDock": 1
         },
         "Maps/Schulprojekt_Info1.json": {
-            "scale": 0.7639583333333333,
-            "selectedLayer": 27,
+            "scale": 0.9346,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 544.5323152440687,
-                "y": 723.861467139351
+                "x": 545.1530066338541,
+                "y": 704.5794992510164
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -770,6 +770,9 @@
         "Maps/Schulprojekt_Info1.json#Dreher": {
             "scaleInDock": 1
         },
+        "Maps/Schulprojekt_Info1.json#Haseloff": {
+            "scaleInDock": 1
+        },
         "Maps/Schulprojekt_Info1.json#Jüngst": {
             "scaleInDock": 1
         },
@@ -815,12 +818,92 @@
         "Maps/Schulprojekt_Info1.json#premTileset-Furniture_2": {
             "scaleInDock": 1
         },
+        "Maps/Schulprojekt_Info2.json": {
+            "scale": 1.16,
+            "selectedLayer": 18,
+            "viewCenter": {
+                "x": 466.8103448275862,
+                "y": 794.3965517241379
+            }
+        },
+        "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Könke": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-Einhorn": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#Weiß": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem1_furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem2_base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem4_pipo_base_3": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem6_food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem7_dk_space_station": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#prem9_deco_rc3-mullana-restroom-party": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/Schulprojekt_Info2.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
         "Maps/Schulprojekt_Start.json": {
             "scale": 1.025146484375,
-            "selectedLayer": 2,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 636.9821386044296,
-                "y": 537.4841628959276
+                "x": 629.6661109788045,
+                "y": 530.1681352703025
             }
         },
         "Maps/Schulprojekt_Start.json#01_stone_tile1 Kopie": {
@@ -872,11 +955,11 @@
             "scaleInDock": 1
         },
         "Maps/Schulprojekt_Werkstatt.json": {
-            "scale": 0.7538,
-            "selectedLayer": 27,
+            "scale": 1.0669,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 1028.124170867604,
-                "y": 874.2371981958079
+                "x": 965.8824632111726,
+                "y": 727.8095416627614
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
