@@ -820,7 +820,7 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 472.41379310344826,
                 "y": 799.1379310344828
