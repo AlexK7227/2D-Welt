@@ -716,7 +716,7 @@
             "selectedLayer": 11,
             "viewCenter": {
                 "x": 593.3019473571582,
-                "y": 735.6088166060346
+                "y": 712.0693344746414
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -823,7 +823,7 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 465.94827586206895,
                 "y": 791.8103448275863
