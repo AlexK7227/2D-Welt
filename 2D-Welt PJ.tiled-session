@@ -550,10 +550,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 0.9649,
-            "selectedLayer": 10,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 724.4274018032955,
-                "y": 810.4466784122707
+                "x": 716.6545756036894,
+                "y": 460.6694994299927
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -716,7 +716,7 @@
             "selectedLayer": 15,
             "viewCenter": {
                 "x": 593.3019473571582,
-                "y": 911.0849561309651
+                "y": 434.94543120051355
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -826,7 +826,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 465.94827586206895,
-                "y": 791.8103448275863
+                "y": 784.0517241379312
             }
         },
         "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
