@@ -1129,10 +1129,10 @@
         },
         "Maps/TVD_Floor1.json": {
             "scale": 1.1,
-            "selectedLayer": 19,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 518.1818181818181,
-                "y": 686.8181818181818
+                "x": 517.2727272727273,
+                "y": 685.909090909091
             }
         },
         "Maps/TVD_Floor1.json#01_fire_extinguisher Kopie": {
@@ -1234,7 +1234,7 @@
         },
         "Maps/TVD_Floor2.json": {
             "scale": 1.134,
-            "selectedLayer": 8,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 496.4726631393298,
                 "y": 842.5925925925926
@@ -1314,7 +1314,7 @@
         },
         "Maps/TVD_Start.json": {
             "scale": 1.2738,
-            "selectedLayer": 14,
+            "selectedLayer": 17,
             "viewCenter": {
                 "x": 533.8357669963888,
                 "y": 471.4240854137227
@@ -1370,10 +1370,10 @@
         },
         "Maps/TVD_Werkstatt.json": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 691,
-                "y": 797.5
+                "x": 745,
+                "y": 823.5
             }
         },
         "Maps/TVD_Werkstatt.json#01_fire_extinguisher Kopie": {
