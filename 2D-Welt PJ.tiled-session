@@ -903,10 +903,10 @@
         },
         "Maps/Schulprojekt_Start.json": {
             "scale": 1.025146484375,
-            "selectedLayer": 17,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 561.8709216480114,
-                "y": 529.192664920219
+                "x": 619.911407477971,
+                "y": 475.054060490593
             }
         },
         "Maps/Schulprojekt_Start.json#01_stone_tile1 Kopie": {
@@ -1314,10 +1314,10 @@
         },
         "Maps/TVD_Start.json": {
             "scale": 1.2738,
-            "selectedLayer": 17,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 533.8357669963888,
-                "y": 471.4240854137227
+                "x": 776.809546239598,
+                "y": 461.6109279321715
             }
         },
         "Maps/TVD_Start.json#01_stone_tile1 Kopie": {
@@ -1370,10 +1370,10 @@
         },
         "Maps/TVD_Werkstatt.json": {
             "scale": 1,
-            "selectedLayer": 6,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 745,
-                "y": 823.5
+                "x": 960.5,
+                "y": 693
             }
         },
         "Maps/TVD_Werkstatt.json#01_fire_extinguisher Kopie": {
@@ -1440,6 +1440,9 @@
             "scaleInDock": 1
         },
         "Maps/TVD_Werkstatt.json#B7c": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Büro": {
             "scaleInDock": 1
         },
         "Maps/TVD_Werkstatt.json#G1a": {
