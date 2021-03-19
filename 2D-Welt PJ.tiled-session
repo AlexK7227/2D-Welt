@@ -1129,10 +1129,10 @@
         },
         "Maps/TVD_Floor1.json": {
             "scale": 1.1,
-            "selectedLayer": 0,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 519.0909090909091,
-                "y": 907.7272727272727
+                "x": 518.1818181818181,
+                "y": 686.8181818181818
             }
         },
         "Maps/TVD_Floor1.json#01_fire_extinguisher Kopie": {

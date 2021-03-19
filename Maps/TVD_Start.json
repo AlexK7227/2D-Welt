@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Schulprojekt_Werkstatt.json"
+                 "value":"TVD_Werkstatt.json"
                 }],
          "type":"tilelayer",
          "visible":true,
