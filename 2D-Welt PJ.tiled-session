@@ -90,9 +90,9 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.9485,
-            "selectedLayer": 19,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 929.3621507643649,
+                "x": 845.545598313126,
                 "y": 812.335266209805
             }
         },
@@ -303,10 +303,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 0.8142,
-            "selectedLayer": 37,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 868.9511176615081,
-                "y": 1103.5372144436255
+                "x": 783.5912552198477,
+                "y": 1101.080815524441
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -419,8 +419,8 @@
             "scale": 1,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 728.5,
-                "y": 579.5
+                "x": 660,
+                "y": 578.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -469,8 +469,8 @@
             "scale": 0.9013,
             "selectedLayer": 30,
             "viewCenter": {
-                "x": 786.0867635637412,
-                "y": 682.9024742039276
+                "x": 710.085432153556,
+                "y": 681.7929657161878
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -550,10 +550,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 0.9649,
-            "selectedLayer": 15,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 716.6545756036894,
-                "y": 460.6694994299927
+                "x": 643.5900093273915,
+                "y": 484.50616644211834
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -658,7 +658,7 @@
             "scale": 1.2023,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 670.797637860767,
+                "x": 613.823504948848,
                 "y": 407.9680612160027
             }
         },
@@ -713,10 +713,10 @@
         },
         "Maps/Schulprojekt_Info1.json": {
             "scale": 0.9346,
-            "selectedLayer": 24,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 593.3019473571582,
-                "y": 552.6428418574791
+                "x": 517.8686068906484,
+                "y": 604.0017119623368
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -825,8 +825,8 @@
             "scale": 1.16,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 533.1896551724138,
-                "y": 834.9137931034484
+                "x": 474.13793103448273,
+                "y": 834.0517241379312
             }
         },
         "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
@@ -905,7 +905,7 @@
             "scale": 1.025146484375,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 628.6906406287212,
+                "x": 561.8709216480114,
                 "y": 529.192664920219
             }
         },
@@ -959,10 +959,10 @@
         },
         "Maps/Schulprojekt_Werkstatt.json": {
             "scale": 1.0669,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 802.3244915174807,
-                "y": 824.8195707189053
+                "x": 2008.6231136938795,
+                "y": 848.7205923704189
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
@@ -1125,6 +1125,417 @@
             "scaleInDock": 1
         },
         "Maps/Schulprojekt_Werkstatt.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json": {
+            "scale": 1.1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 519.0909090909091,
+                "y": 907.7272727272727
+            }
+        },
+        "Maps/TVD_Floor1.json#01_fire_extinguisher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#01_mate Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#02_chairs_grey Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#03_chairs_blue Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#03_eh-wandschrank_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#09_workstations Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#10_paperwork Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#12_telephone_upright Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#15_Pizza Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#16_uhr_weiss Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#35_kuehlfaecher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#35_pflanze1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Bubenzer": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Dreher": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Jüngst": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Kupfer": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Schneider": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#misc CCC": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Maps/TVD_Floor1.json#prem2_base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor1.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json": {
+            "scale": 1.134,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 496.4726631393298,
+                "y": 842.5925925925926
+            }
+        },
+        "Maps/TVD_Floor2.json#32x32 Tileset CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Könke": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-Einhorn": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#Weiß": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem1_furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem2_base_out_atlas": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem4_pipo_base_3": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem6_food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem7_dk_space_station": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#prem9_deco_rc3-mullana-restroom-party": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Floor2.json#premTileset-Furniture_2": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json": {
+            "scale": 1.2738,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 533.8357669963888,
+                "y": 471.4240854137227
+            }
+        },
+        "Maps/TVD_Start.json#01_stone_tile1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#07_wear_your_mask_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#TVD": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#TVD_3": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Tileset-Car_1": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Tileset-Car_4": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#Txt_Info": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Start.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 691,
+                "y": 797.5
+            }
+        },
+        "Maps/TVD_Werkstatt.json#01_fire_extinguisher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#02_chairs_grey Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#03_chairs_blue Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#03_draeger_gamma Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#03_eh-wandschrank_32x32 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#09_workstations Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#10_paperwork Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#12_telephone_upright Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#13_tuer_standard_rechts Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#17_muelleimer1 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#27_pinboard_S_2 Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#35_kuehlfaecher Kopie": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Ablaufplan": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B5a": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B5b": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B6a": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B6b": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B6c": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B6d": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B7a": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B7b": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#B7c": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#G1a": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#G1b": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#G1c": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#G1d": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#G2": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#G3": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#TVD_3": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Car_1": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Car_4": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Colours": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Functions": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Furniture_1": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Furniture_4": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Furniture_5": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Furniture_6": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Office": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-Walls+Alpaka": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-floor": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-floor_wall": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Tileset-instruments": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Txt_Lernsituationsmatrize": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Txt_Masterlösung": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#Txt_Verlaufsplanung": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#ccc Basics": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#clouds": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#mapUtilities CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#misc CCC": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#prem1_furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#prem3_doors": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#prem5_wintiles": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#premTileset-Furniture": {
+            "scaleInDock": 1
+        },
+        "Maps/TVD_Werkstatt.json#premTileset-Furniture_2": {
             "scaleInDock": 1
         }
     },
