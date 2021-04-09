@@ -713,7 +713,7 @@
         },
         "Maps/Schulprojekt_Info1.json": {
             "scale": 0.9346,
-            "selectedLayer": 0,
+            "selectedLayer": 24,
             "viewCenter": {
                 "x": 391.61138454953993,
                 "y": 718.4891932377486
@@ -1129,9 +1129,9 @@
         },
         "Maps/TVD_Floor1.json": {
             "scale": 1.1,
-            "selectedLayer": 2,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 783.6363636363635,
+                "x": 782.7272727272727,
                 "y": 1039.5454545454545
             }
         },
