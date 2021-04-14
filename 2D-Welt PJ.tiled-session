@@ -823,10 +823,10 @@
         },
         "Maps/Schulprojekt_Info2.json": {
             "scale": 1.16,
-            "selectedLayer": 0,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 528.4482758620691,
-                "y": 623.7068965517242
+                "x": 528.0172413793105,
+                "y": 700.0000000000001
             }
         },
         "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
