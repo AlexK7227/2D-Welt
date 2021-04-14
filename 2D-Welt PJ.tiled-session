@@ -715,8 +715,8 @@
             "scale": 0.9346,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 544.618018403595,
-                "y": 719.5591696982665
+                "x": 392.14637277979887,
+                "y": 717.9542050074898
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -1129,7 +1129,7 @@
         },
         "Maps/TVD_Floor1.json": {
             "scale": 1.1,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 782.2727272727273,
                 "y": 1039.090909090909
