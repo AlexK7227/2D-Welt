@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/G1_Wuchten.pdf"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/G2_Oelwechsel_1.pdf"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/LOBB\/GesinePr\u00e4se.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,7 +259,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/G3_Checkliste_2.pdf"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/LOBB\/SimonPr\u00e4se.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
