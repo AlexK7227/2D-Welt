@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/Schulprojekt_Info1.json",
+    "activeFile": "Maps/Schulprojekt_Werkstatt.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -715,8 +715,8 @@
             "scale": 0.9346,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 384.6565375561737,
-                "y": 762.8932163492402
+                "x": 544.618018403595,
+                "y": 719.5591696982665
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -825,8 +825,8 @@
             "scale": 1.16,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 528.8793103448277,
-                "y": 700.0000000000001
+                "x": 528.4482758620691,
+                "y": 623.7068965517242
             }
         },
         "Maps/Schulprojekt_Info2.json#32x32 Tileset CCC": {
@@ -959,7 +959,7 @@
         },
         "Maps/Schulprojekt_Werkstatt.json": {
             "scale": 1.0669,
-            "selectedLayer": 13,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 1583.0911988002626,
                 "y": 1279.8762770643923
@@ -1579,11 +1579,11 @@
         "Maps/2D-Welt MyFloor.json",
         "Maps/2D-Welt Dungeon.json",
         "Maps/Schulprojekt_Start.json",
-        "Maps/Schulprojekt_Werkstatt.json",
         "Maps/TVD_Floor2.json",
         "Maps/TVD_Floor1.json",
         "Maps/TVD_Werkstatt.json",
-        "Maps/TVD_Start.json"
+        "Maps/TVD_Start.json",
+        "Maps/Schulprojekt_Info2.json"
     ],
     "tileset.embedInMap": true,
     "tileset.spacing": 0,
