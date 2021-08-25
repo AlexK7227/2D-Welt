@@ -306,7 +306,7 @@
             "selectedLayer": 11,
             "viewCenter": {
                 "x": 967.5,
-                "y": 1158.5
+                "y": 1157.5
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -417,7 +417,7 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 1,
-            "selectedLayer": 11,
+            "selectedLayer": 24,
             "viewCenter": {
                 "x": 624.5,
                 "y": 519.5
@@ -467,7 +467,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 0.9013,
-            "selectedLayer": 12,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 528.6807944080773,
                 "y": 639.6316431820704
