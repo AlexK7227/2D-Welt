@@ -92,7 +92,7 @@
             "scale": 0.8864,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 1631.8817689530686,
+                "x": 1630.7536101083035,
                 "y": 524.0297833935018
             }
         },
@@ -303,10 +303,10 @@
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
             "scale": 1,
-            "selectedLayer": 14,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 967.5,
-                "y": 635.5
+                "y": 1158.5
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -417,10 +417,10 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 11,
             "viewCenter": {
                 "x": 624.5,
-                "y": 667.5
+                "y": 519.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -467,7 +467,7 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 0.9013,
-            "selectedLayer": 30,
+            "selectedLayer": 12,
             "viewCenter": {
                 "x": 528.6807944080773,
                 "y": 639.6316431820704

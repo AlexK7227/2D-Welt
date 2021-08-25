@@ -205,7 +205,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Q1.png"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Q11.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Q5.png"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Q51.png"
                 }],
          "type":"tilelayer",
          "visible":true,
