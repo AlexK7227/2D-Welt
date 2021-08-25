@@ -90,10 +90,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.8864,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1455.8889891696751,
-                "y": 824.1200361010831
+                "x": 1631.8817689530686,
+                "y": 524.0297833935018
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -1570,7 +1570,7 @@
         "Maps/TVD_Floor2.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "Maps/2D-Welt B-Seminar_Buchmann.json",
         "Maps/2D-Welt B-Seminar.json",
