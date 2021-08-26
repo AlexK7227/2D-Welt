@@ -305,7 +305,7 @@
             "scale": 1,
             "selectedLayer": 11,
             "viewCenter": {
-                "x": 960.5,
+                "x": 578,
                 "y": 550.5
             }
         },
@@ -469,7 +469,7 @@
             "scale": 0.9013,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 103.18428935981353,
+                "x": 249.63940974148454,
                 "y": 668.4788638633087
             }
         },
@@ -549,11 +549,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
-            "scale": 1.5,
-            "selectedLayer": 16,
+            "scale": 1,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 1907.3333333333333,
-                "y": 2643.6666666666665
+                "x": 677,
+                "y": 1076.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
