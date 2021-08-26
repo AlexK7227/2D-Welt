@@ -550,10 +550,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 28,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 991.5,
-                "y": 995.5
+                "x": 1294.5,
+                "y": 1733.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -658,8 +658,8 @@
             "scale": 1.2023,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 590.9506778674208,
-                "y": 535.2241537053981
+                "x": 481.16110787656993,
+                "y": 534.3924145388006
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
