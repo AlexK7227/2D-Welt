@@ -335,7 +335,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Ablaufplan.pdf"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Ablaufplan3.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -353,7 +353,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Ablaufplan2.png"
+                 "value":"https:\/\/alexk7227.github.io\/2D-Welt\/Dokumente\/Ablaufplan3.png"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -552,8 +552,8 @@
             "scale": 1,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 696.5,
-                "y": 1011.5
+                "x": 554.5,
+                "y": 123.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -659,8 +659,8 @@
             "scale": 1.2023,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 591.3665474507195,
-                "y": 511.9354570406721
+                "x": 592.6141562006154,
+                "y": 511.10371787407473
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
