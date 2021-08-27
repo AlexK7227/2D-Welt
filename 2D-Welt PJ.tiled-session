@@ -90,10 +90,10 @@
         },
         "Maps/2D-Welt B-Seminar.json": {
             "scale": 0.8864,
-            "selectedLayer": 44,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 2022.2247292418774,
-                "y": 794.7879061371842
+                "x": 1070.0586642599278,
+                "y": 693.2536101083032
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -302,11 +302,11 @@
             "scaleInDock": 1
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json": {
-            "scale": 1,
-            "selectedLayer": 13,
+            "scale": 0.5,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1248.5,
-                "y": 599.5
+                "x": 1153,
+                "y": 949
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -417,10 +417,10 @@
         },
         "Maps/2D-Welt Dungeon.json": {
             "scale": 1,
-            "selectedLayer": 24,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 624,
-                "y": 639.5
+                "x": 624.5,
+                "y": 536.5
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -467,10 +467,10 @@
         },
         "Maps/2D-Welt MyFloor.json": {
             "scale": 0.9013,
-            "selectedLayer": 12,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 527.0165316764674,
-                "y": 622.9890158659714
+                "x": 529.7903028958171,
+                "y": 624.0985243537112
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -550,10 +550,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 20,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 554.5,
-                "y": 123.5
+                "x": 553.5,
+                "y": 431.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -657,10 +657,10 @@
         },
         "Maps/2D-Welt_B-Sem_Start.json": {
             "scale": 1.2023,
-            "selectedLayer": 12,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 592.6141562006154,
-                "y": 511.10371787407473
+                "x": 624.2202445313151,
+                "y": 510.2719787074774
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -906,8 +906,8 @@
             "scale": 1.025146484375,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 591.135032150512,
-                "y": 511.6341986187187
+                "x": 592.5982376756369,
+                "y": 511.63419861871876
             }
         },
         "Maps/Schulprojekt_Start.json#01_stone_tile1 Kopie": {
@@ -1571,7 +1571,7 @@
         "Maps/TVD_Floor2.json"
     ],
     "project": "2D-Welt PJ.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "Maps/TVD_Floor2.json",
         "Maps/TVD_Floor1.json",
