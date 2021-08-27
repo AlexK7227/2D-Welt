@@ -305,8 +305,8 @@
             "scale": 1,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 1249.5,
-                "y": 1402.5
+                "x": 1248.5,
+                "y": 599.5
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -550,10 +550,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 16,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 1136,
-                "y": 1439.5
+                "x": 696.5,
+                "y": 1011.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
