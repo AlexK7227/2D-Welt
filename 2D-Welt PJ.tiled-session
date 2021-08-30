@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/2D-Welt Dungeon.json",
+    "activeFile": "Maps/2D-Welt_B-Sem_Info_1.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -92,8 +92,8 @@
             "scale": 0.8864,
             "selectedLayer": 25,
             "viewCenter": {
-                "x": 1070.0586642599278,
-                "y": 692.125451263538
+                "x": 1486.913357400722,
+                "y": 799.8646209386281
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -419,8 +419,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 617.5,
-                "y": 385.5
+                "x": 624,
+                "y": 640
             }
         },
         "Maps/2D-Welt Dungeon.json#$CK_chest_2 Kopie": {
@@ -470,7 +470,7 @@
             "selectedLayer": 13,
             "viewCenter": {
                 "x": 529.7903028958171,
-                "y": 622.9890158659713
+                "y": 621.8795073782316
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -550,10 +550,10 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 34,
             "viewCenter": {
-                "x": 553.5,
-                "y": 431.5
+                "x": 547.5,
+                "y": 481.5
             }
         },
         "Maps/2D-Welt_B-Sem_Info_1.json#01_fire_extinguisher Kopie": {
@@ -906,8 +906,8 @@
             "scale": 1.025146484375,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 592.5982376756369,
-                "y": 511.63419861871876
+                "x": 592.1105025005954,
+                "y": 512.1219337937604
             }
         },
         "Maps/Schulprojekt_Start.json#01_stone_tile1 Kopie": {
@@ -962,8 +962,8 @@
             "scale": 1.0669,
             "selectedLayer": 38,
             "viewCenter": {
-                "x": 1582.6225513168995,
-                "y": 1278.9389820976662
+                "x": 1583.0911988002626,
+                "y": 1279.4076295810291
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
@@ -1575,16 +1575,16 @@
     "recentFiles": [
         "Maps/2D-Welt B-Seminar_Buchmann.json",
         "Maps/2D-Welt B-Seminar.json",
-        "Maps/2D-Welt_B-Sem_Info_1.json",
-        "Maps/2D-Welt_B-Sem_Start.json",
-        "Maps/2D-Welt MyFloor.json",
         "Maps/TVD_Floor2.json",
         "Maps/TVD_Floor1.json",
         "Maps/TVD_Werkstatt.json",
         "Maps/TVD_Start.json",
         "Maps/Schulprojekt_Info2.json",
         "Maps/Schulprojekt_Info1.json",
-        "Maps/Schulprojekt_Werkstatt.json"
+        "Maps/Schulprojekt_Werkstatt.json",
+        "Maps/Schulprojekt_Start.json",
+        "Maps/2D-Welt Dungeon.json",
+        "Maps/2D-Welt MyFloor.json"
     ],
     "tileset.embedInMap": true,
     "tileset.spacing": 0,
