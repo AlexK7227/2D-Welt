@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Maps/2D-Welt B-Seminar.json",
+    "activeFile": "Maps/2D-Welt_B-Sem_Info_1.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -92,8 +92,8 @@
             "scale": 0.8864,
             "selectedLayer": 48,
             "viewCenter": {
-                "x": 1491.9900722021662,
-                "y": 1066.6741877256318
+                "x": 1486.9133574007221,
+                "y": 799.3005415162455
             }
         },
         "Maps/2D-Welt B-Seminar.json#01_fire_extinguisher Kopie": {
@@ -306,7 +306,7 @@
             "selectedLayer": 12,
             "viewCenter": {
                 "x": 1184,
-                "y": 1027
+                "y": 1040
             }
         },
         "Maps/2D-Welt B-Seminar_Buchmann.json#32x32 Tileset CCC": {
@@ -469,8 +469,8 @@
             "scale": 0.9013,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 529.7903028958171,
-                "y": 621.8795073782314
+                "x": 527.0165316764674,
+                "y": 622.9890158659714
             }
         },
         "Maps/2D-Welt MyFloor.json#32x32 Tileset CCC": {
@@ -550,7 +550,7 @@
         },
         "Maps/2D-Welt_B-Sem_Info_1.json": {
             "scale": 1,
-            "selectedLayer": 34,
+            "selectedLayer": 21,
             "viewCenter": {
                 "x": 1136,
                 "y": 1439.5
@@ -659,8 +659,8 @@
             "scale": 1.2023,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 625.0519836979124,
-                "y": 510.2719787074774
+                "x": 591.3665474507195,
+                "y": 511.9354570406721
             }
         },
         "Maps/2D-Welt_B-Sem_Start.json#01_stone_tile1 Kopie": {
@@ -717,7 +717,7 @@
             "selectedLayer": 24,
             "viewCenter": {
                 "x": 543.5480419430772,
-                "y": 719.5591696982665
+                "y": 719.5591696982666
             }
         },
         "Maps/Schulprojekt_Info1.json#01_fire_extinguisher Kopie": {
@@ -826,7 +826,7 @@
             "scale": 1.16,
             "selectedLayer": 9,
             "viewCenter": {
-                "x": 527.5862068965517,
+                "x": 527.1551724137931,
                 "y": 623.7068965517242
             }
         },
@@ -963,7 +963,7 @@
             "selectedLayer": 38,
             "viewCenter": {
                 "x": 1583.0911988002626,
-                "y": 1279.8762770643923
+                "y": 1279.876277064392
             }
         },
         "Maps/Schulprojekt_Werkstatt.json#01_fire_extinguisher Kopie": {
@@ -1132,7 +1132,7 @@
             "scale": 1.1,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 783.6363636363637,
+                "x": 783.6363636363636,
                 "y": 1039.5454545454545
             }
         },
@@ -1240,8 +1240,8 @@
             "scale": 1.134,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 783.9506172839508,
-                "y": 879.6296296296298
+                "x": 783.509700176367,
+                "y": 879.6296296296297
             }
         },
         "Maps/TVD_Floor2.json#32x32 Tileset CCC": {
@@ -1320,7 +1320,7 @@
             "scale": 1.2738,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 591.9296592871722,
+                "x": 591.9296592871723,
                 "y": 511.4617679384519
             }
         },
@@ -1379,7 +1379,7 @@
             "scale": 1,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 1488,
+                "x": 1487.5,
                 "y": 799.5
             }
         },
@@ -1574,6 +1574,7 @@
     "property.type": "string",
     "recentFiles": [
         "Maps/2D-Welt B-Seminar_Buchmann.json",
+        "Maps/2D-Welt B-Seminar.json",
         "Maps/TVD_Floor2.json",
         "Maps/TVD_Floor1.json",
         "Maps/TVD_Werkstatt.json",
@@ -1583,8 +1584,7 @@
         "Maps/Schulprojekt_Werkstatt.json",
         "Maps/Schulprojekt_Start.json",
         "Maps/2D-Welt Dungeon.json",
-        "Maps/2D-Welt MyFloor.json",
-        "Maps/2D-Welt_B-Sem_Start.json"
+        "Maps/2D-Welt MyFloor.json"
     ],
     "tileset.embedInMap": true,
     "tileset.spacing": 0,
